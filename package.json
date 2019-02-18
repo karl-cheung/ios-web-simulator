@@ -1,0 +1,19 @@
+{
+  "name": "ios-web-simulator",
+  "version": "1.0.0",
+  "description": "ios 网页模拟器",
+  "main": "ios-web-simulator.xcodeproj",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vincheung/ios-web-simulator.git"
+  },
+  "author": "Zhang Yu <zhangyu.vin@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vincheung/ios-web-simulator/issues"
+  },
+  "homepage": "https://github.com/vincheung/ios-web-simulator#readme"
+}
